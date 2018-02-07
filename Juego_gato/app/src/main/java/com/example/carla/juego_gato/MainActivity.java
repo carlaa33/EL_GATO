@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             jugadorDos = 'O';
             turno = true;  //Si El Valor De "turno" Es Igual A "true" El Turno Es Del Jugador 1, De Lo Contrario Es Jugador 2.
             int contador = 0;     //Lleva Cuenta De Las Veces Que Han Participado Los Jugadores 1 y 2.
-            inicializarTablero();
+            
         }
 
     }
